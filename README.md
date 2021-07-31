@@ -8,16 +8,16 @@ You can access it when ever you want and edit whatever you want.
 ************************************************************************************************************
 Tools:
 
-code editor : visual studio code
-Database : xampp control pannel
+code editor : visual studio code ,
+Database : xampp control pannel ,
 application for running the code : chrome
 
 ************************************************************************************************************
 Languages:
 
-HTML
-CSS
-PHP
+HTML ,
+CSS ,
+PHP ,
 My SQL
 
 ************************************************************************************************************
