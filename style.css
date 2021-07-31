@@ -1,0 +1,19 @@
+.box
+{
+    align-items: center;
+    text-align: center;
+    background-image: image;
+}
+body
+{
+    background-color:white;
+}
+input
+{
+ width: 60%;
+ margin: 11px;
+ border: 10px;
+ border-radius: 13px;
+ border-width: 3px;
+ border-style: solid;
+}
